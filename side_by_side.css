@@ -1,4 +1,7 @@
-
+html, body {
+    height:100%;
+    margin:0px;
+}
 #div1 {
     background-color: olive;
     width: 20%;
