@@ -46,3 +46,7 @@ button
     text-transform: uppercase;
     cursor: pointer;
 }
+.flipped
+{
+    color: red;
+}
